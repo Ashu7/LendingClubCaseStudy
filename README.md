@@ -1,4 +1,4 @@
-# Lending Club Case Study
+# Lending Club Case Study By Ashutosh Dutondkar & Srinivas Gopal
 > EDA on lending club consumers loan data.
 > Consumers who are defaulters on the data set & how can we avoid such consumers.
 
