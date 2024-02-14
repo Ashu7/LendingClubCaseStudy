@@ -1,49 +1,47 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> EDA on lending club consumers loan data.
+> Consumers who are defaulters on the data set & how can we avoid such consumers.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- EDA on lending club consumers loan data.
+- Consumers who are defaulters on the data set & how can we avoid such consumers.
+- How to find out the defaulters when the appilication is recieved for loan.
+- Lending Club sonsumers loan dataset.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Applicant does not own a home of his own. 
+- Loan amount is between 5000 and 15000.
+- Applicant lives in the states of California, Florida or New York.
+- Applicants are ready for the interest rate of 10.0% to 15.0%.
+- From the above data analysis we can say that the applicants with the above conditions should have more verification before processing the loan amount.
+- We can check for applicants history through his credit score.
+- We can have additional verification about his history.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python 3.10
+- pandas 2.2.0
+- numpy
+- For Visualization
+- matplotlib
+- seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
+Created by [@aasshhuu] & Srinivas Gopal - feel free to contact us!
 
 <!-- Optional -->
 <!-- ## License -->
